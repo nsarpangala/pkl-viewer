@@ -25,3 +25,8 @@ Once installed, you can run the viewer in one of two ways:
 ```bash
 pkl-viewer
 ```
+
+### Or as a Python module
+```bash
+python -m pkl_viewer
+```
