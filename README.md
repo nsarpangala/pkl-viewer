@@ -14,4 +14,13 @@ A minimal Python GUI application to open and inspect `.pkl` (pickle) files.
 ## Installation
 
 ```bash
-pip install git+https://github.com/nsarpangala/pkl_viewer.git
+git clone https://github.com/yourusername/pkl-viewer.git
+cd pkl-viewer
+pip install .
+```
+Once installed, you can run the viewer in one of two ways:
+
+### From the command line:
+```bash
+pkl-viewer
+```
